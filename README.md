@@ -7,4 +7,4 @@ There is no use of AI in this project. However, some data analysis and data mini
 
 In the long term, this could be used as a "dumb" assistant. The goal would be that the user links this assistant
 to a speech-to-text algorithm in order to give orders to the model. Moreover, it could be used as a connected
-appliance (IoT).
+appliance (IoT) controller.
